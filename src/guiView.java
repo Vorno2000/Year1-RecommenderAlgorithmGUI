@@ -169,7 +169,7 @@ public class guiView extends JFrame{
 		
 		yes_Button = new JButton("Yes");
 		yes_Button.addActionListener(yes_Listener);
-		yes_Button.setPreferredSize(new Dimension(120, 40));
+		yes_Button.setPreferredSize(new Dimension(130, 40));
 		yes_Button.setFont(new Font("Arial", Font.BOLD, 15));
 		yes_Button.setBackground(new java.awt.Color(220, 190, 130));
 		
