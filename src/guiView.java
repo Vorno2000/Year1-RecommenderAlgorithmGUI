@@ -163,7 +163,7 @@ public class guiView extends JFrame{
 		
 		no_Button = new JButton("No");
 		no_Button.addActionListener(backListener);
-		no_Button.setPreferredSize(new Dimension(120, 40));
+		no_Button.setPreferredSize(new Dimension(130, 40));
 		no_Button.setFont(new Font("Arial", Font.BOLD, 15));
 		no_Button.setBackground(new java.awt.Color(220, 190, 130));
 		
